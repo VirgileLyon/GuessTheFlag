@@ -8,5 +8,5 @@ GuessTheFlag is a game to train your knowledge about flag.
 
 
 
-## License
+## Ressources
 [100DayWithSwiftUI](https://www.hackingwithswift.com/100/swiftui/)
